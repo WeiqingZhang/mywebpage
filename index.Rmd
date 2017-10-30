@@ -11,5 +11,5 @@ I work with [Prof. Benedict Jones]()
 
 ### Research Interests
 
-> rmarkdown::render_site() I'm interested in the relationship between face width-to-hight ratio and behavioral tendencies, easpecially sexual desire.
+I'm interested in the relationship between face width-to-hight ratio and behavioral tendencies, easpecially sexual desire.
 
