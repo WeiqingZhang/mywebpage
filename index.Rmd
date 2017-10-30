@@ -2,7 +2,6 @@
 title: "Weiqing Zhang"
 ---
 
-![]()
 I am a postgraduate student in the University of Glasgow's
 [Institute of Neuroscience and Psychology](http://www.gla.ac.uk/researchinstitutes/neurosciencepsychology/).
 I work with [Prof. Benedict Jones](https://www.gla.ac.uk/researchinstitutes/neurosciencepsychology/staff/benjones).
@@ -13,14 +12,11 @@ I'm interested in the relationship between face width-to-hight ratio and behavio
 
 ### Education Background
 
-* 2017-Now  
-MSc, Research Methods of Psychological Science, [University of Glasgow](https://www.gla.ac.uk/)
+* 2017-Now   MSc, Research Methods of Psychological Science, [University of Glasgow](https://www.gla.ac.uk/)
 
-* 2012-2016
-BSc, Applied Psychology, [South-Central University For Nationalities, China](http://www.scuec.edu.cn/)
+* 2012-2016  BSc, Applied Psychology, [South-Central University For Nationalities, China](http://www.scuec.edu.cn/)
 
 ### Work Experience
 
-* 2016-2017
-Volunteer Mandarin Teacher, [Universiti Malaysia Pahang](http://ump.edu.my/)
+* 2016-2017  Volunteer Mandarin Teacher, [Universiti Malaysia Pahang](http://ump.edu.my/)
 
